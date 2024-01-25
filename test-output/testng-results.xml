@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T12:02:51 IST" name="Default suite" finished-at="2024-01-25T12:03:41 IST" duration-ms="50041">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T12:02:51 IST" name="Default test" finished-at="2024-01-25T12:03:41 IST" duration-ms="50041">
+      <class name="ResponsiveEDUserManagementTestScript.viewParticularUserDetails">
+        <test-method is-config="true" signature="connectionwithdatabase()[pri:0, instance:ResponsiveEDUserManagementTestScript.viewParticularUserDetails@34123d65]" started-at="2024-01-25T12:02:51 IST" name="connectionwithdatabase" finished-at="2024-01-25T12:02:51 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectionwithdatabase -->
+        <test-method is-config="true" signature="lanchbrowser()[pri:0, instance:ResponsiveEDUserManagementTestScript.viewParticularUserDetails@34123d65]" started-at="2024-01-25T12:02:51 IST" name="lanchbrowser" finished-at="2024-01-25T12:02:55 IST" duration-ms="4019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchbrowser -->
+        <test-method is-config="true" signature="loginoperation()[pri:0, instance:ResponsiveEDUserManagementTestScript.viewParticularUserDetails@34123d65]" started-at="2024-01-25T12:02:55 IST" name="loginoperation" finished-at="2024-01-25T12:02:57 IST" duration-ms="2473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginoperation -->
+        <test-method signature="viewUserDetails()[pri:0, instance:ResponsiveEDUserManagementTestScript.viewParticularUserDetails@34123d65]" started-at="2024-01-25T12:02:57 IST" name="viewUserDetails" finished-at="2024-01-25T12:03:36 IST" duration-ms="38831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewUserDetails -->
+        <test-method is-config="true" signature="logoutoperation()[pri:0, instance:ResponsiveEDUserManagementTestScript.viewParticularUserDetails@34123d65]" started-at="2024-01-25T12:03:36 IST" name="logoutoperation" finished-at="2024-01-25T12:03:40 IST" duration-ms="4317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutoperation -->
+        <test-method is-config="true" signature="closewindow()[pri:0, instance:ResponsiveEDUserManagementTestScript.viewParticularUserDetails@34123d65]" started-at="2024-01-25T12:03:40 IST" name="closewindow" finished-at="2024-01-25T12:03:41 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewindow -->
+        <test-method is-config="true" signature="closeconnectionwithdatabase()[pri:0, instance:ResponsiveEDUserManagementTestScript.viewParticularUserDetails@34123d65]" started-at="2024-01-25T12:03:41 IST" name="closeconnectionwithdatabase" finished-at="2024-01-25T12:03:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeconnectionwithdatabase -->
+      </class> <!-- ResponsiveEDUserManagementTestScript.viewParticularUserDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
