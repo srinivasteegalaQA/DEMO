@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class UserManagementPage {
 
-	@FindBy(xpath = "//mat-label[text()='Institutions:']/../../../..")
+	@FindBy(xpath = "//mat-label[text()='Institutions:']/../../../../..")
 	private WebElement institutinsDropDown;
 	
 	@FindBy(xpath = "//mat-label[text()=\"Role's:\"]/../../../..")
